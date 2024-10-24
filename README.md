@@ -69,6 +69,14 @@ npm run dev
 Run database migrations:
 php artisan migrate --seed
 
+Screenshot
+
+![login](https://github.com/user-attachments/assets/b5aaa6e9-9bf2-473c-93b5-d3b4fdd79f0c)
+![dashboard](https://github.com/user-attachments/assets/238607bf-4183-4a90-a70a-154fa8c1d244)
+![admin side](https://github.com/user-attachments/assets/311479e3-64bc-48e7-a91f-1e0f71d80627)
+![home](https://github.com/user-attachments/assets/00b540e6-14ff-4a81-8188-b425d2ca9379)
+![products](https://github.com/user-attachments/assets/508ea3dd-9b38-4832-95a9-f057b63ae3a9)
+
 Set up environment variables:
 Configure your .env file with your database credentials and other necessary settings.
 
